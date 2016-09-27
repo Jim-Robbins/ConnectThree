@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Connect Three</string>
+    <string name="gameTitle">Tic-Tac-Go!</string>
+    <string name="player1">Player 1\'s Turn</string>
+    <string name="player2">Player 2\'s Turn</string>
+    <string name="player1Win">Player 1 Wins!</string>
+    <string name="player2Win">Player 2 Wins!</string>
+    <string name="tieGame">It\'s a Tie!</string>
+    <string name="playerChip">Player Chip</string>
+</resources>
